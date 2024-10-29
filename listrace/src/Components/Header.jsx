@@ -1,6 +1,6 @@
 import React from 'react';
 
-class HeaderTop extends React.Component {
+class Header extends React.Component {
     render() {
         return (
             <header id="header-top" className="header-top">
@@ -49,4 +49,4 @@ class HeaderTop extends React.Component {
     }
 }
 
-export default HeaderTop;
+export default Header;
