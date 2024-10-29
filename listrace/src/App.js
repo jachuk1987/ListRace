@@ -9,6 +9,8 @@ import ExploreSection from './Components/ExploreSection';
 import Reviews from './Components/Reviews';
 import Statistics from './Components/Statistics';
 import Blog from './Components/Blog';
+import Subscription from './Components/Subscription';
+import Footer from './Components/Footer';
 
 function App() {
   return (
@@ -22,6 +24,8 @@ function App() {
       <Reviews />
       <Statistics />
       <Blog />
+      <Subscription />
+      <Footer />
     </div>
   );
 }
