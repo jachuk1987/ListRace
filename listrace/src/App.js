@@ -8,6 +8,7 @@ import Works from './Components/Works';
 import ExploreSection from './Components/ExploreSection';
 import Reviews from './Components/Reviews';
 import Statistics from './Components/Statistics';
+import Blog from './Components/Blog';
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <ExploreSection />
       <Reviews />
       <Statistics />
+      <Blog />
     </div>
   );
 }
